@@ -24,7 +24,7 @@ function App() {
 
   const data = async () => {
     try {
-      const source = await fetch(`http://api.weatherapi.com/v1/forecast.json?key=${API_KEY}&q=India&days=14&aqi=yes&alerts=yes`);
+      const source = await fetch(`https://api.weatherapi.com/v1/forecast.json?key=${API_KEY}&q=India&days=14&aqi=yes&alerts=yes`);
       const response = await source.json();
 
       setForecasts(response);
