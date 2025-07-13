@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/preet-99/ReactApp/static/css/main.9461ff08.css",
-    "main.js": "/preet-99/ReactApp/static/js/main.4154c359.js",
-    "static/js/453.159e3252.chunk.js": "/preet-99/ReactApp/static/js/453.159e3252.chunk.js",
-    "static/media/rain.jpg": "/preet-99/ReactApp/static/media/rain.f5e742a4b48c39cb103f.jpg",
-    "index.html": "/preet-99/ReactApp/index.html",
-    "main.9461ff08.css.map": "/preet-99/ReactApp/static/css/main.9461ff08.css.map",
-    "main.4154c359.js.map": "/preet-99/ReactApp/static/js/main.4154c359.js.map",
-    "453.159e3252.chunk.js.map": "/preet-99/ReactApp/static/js/453.159e3252.chunk.js.map"
+    "main.css": "/preet-99.io/ReactApp/static/css/main.6bfbf443.css",
+    "main.js": "/preet-99.io/ReactApp/static/js/main.1d57f82e.js",
+    "static/js/453.159e3252.chunk.js": "/preet-99.io/ReactApp/static/js/453.159e3252.chunk.js",
+    "static/media/rain.jpg": "/preet-99.io/ReactApp/static/media/rain.f5e742a4b48c39cb103f.jpg",
+    "index.html": "/preet-99.io/ReactApp/index.html",
+    "main.6bfbf443.css.map": "/preet-99.io/ReactApp/static/css/main.6bfbf443.css.map",
+    "main.1d57f82e.js.map": "/preet-99.io/ReactApp/static/js/main.1d57f82e.js.map",
+    "453.159e3252.chunk.js.map": "/preet-99.io/ReactApp/static/js/453.159e3252.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9461ff08.css",
-    "static/js/main.4154c359.js"
+    "static/css/main.6bfbf443.css",
+    "static/js/main.1d57f82e.js"
   ]
 }
