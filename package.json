@@ -2,8 +2,7 @@
   "name": "weather",
   "version": "0.1.0",
   "private": true,
- "homepage": "https://preet-99.github.io/ReactApp",
- 
+  "homepage": "https://preet-99.github.io/ReactApp",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -20,8 +19,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-     "predeploy": "npm run build",
-      "deploy": "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
