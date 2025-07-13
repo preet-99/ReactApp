@@ -3,7 +3,7 @@ import React from 'react'
 const Header = (props) => {
   // Access the location,forecastData,highlights using props
   let { location, forecastData, highlights } = props;
-  console.log(location)
+  
  const handleClick = () =>{
   alert(`Sorry For inconvenience,this feature is undermaintenance
     `)
