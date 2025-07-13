@@ -5,7 +5,7 @@ const Header = (props) => {
   let { location, forecastData, highlights } = props;
   
  const handleClick = () =>{
-  alert(`Sorry For inconvenience,this feature is undermaintenance
+  alert(`Sorry For inconvenience,this feature is undermaintenance.
     `)
  }
  
