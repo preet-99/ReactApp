@@ -3,11 +3,6 @@
 A responsive and real-time weather application built using **React**, styled with **Bootstrap**, and powered by a **free weather API** (like OpenWeatherMap).  
 This app helps users get current weather information by city name, including temperature, weather conditions, humidity, and more.
 
-## 🔗 Live Demo
-
-[Click here to view the app](https://your-username.github.io/your-repo-name)
-
----
 
 
 ## 🚀 Features
